@@ -11,7 +11,8 @@ enum color {
 	NAVY, 
 	PURPLE, 
 	BLUE, 
-	WHITE
+	WHITE,
+	DEFAULT = 9
 };
 
 void mt_clrscr();
